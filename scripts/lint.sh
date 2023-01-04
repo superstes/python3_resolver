@@ -8,4 +8,4 @@ echo ''
 echo 'LINTING Python'
 echo ''
 
-pylint resolver.py
+pylint $(git ls-files '*.py')
