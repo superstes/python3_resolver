@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as info:
 
 setuptools.setup(
     name='python3-resolver',
-    version='1.0.2',
+    version='1.0.3',
     author='René Rath',
     author_email='contact@superstes.eu',
     description='Module to resolve A/AAAA DNS records',
