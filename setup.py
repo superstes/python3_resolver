@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as info:
     long_description = info.read()
 
 setuptools.setup(
-    name='python3-resolver',
+    name='python3_resolver',
     version='1.0.3',
     author='René Rath',
     author_email='contact@superstes.eu',
